@@ -44,7 +44,7 @@ python app.py
 O servidor Flask será iniciado e poderá ser acessado via http://127.0.0.1:5000.
 
 🖼️ Interface <br>
-Aqui está uma prévia da interface do projeto:
+Aqui está uma prévia da interface do projeto: <br>
 ![image](interface.png)
 
 
