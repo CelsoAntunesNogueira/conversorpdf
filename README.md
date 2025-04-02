@@ -4,14 +4,14 @@
 
 Este é um Conversor de DOCX para PDF desenvolvido com Flask (Python) no backend e uma interface simples em HTML, CSS e JavaScript no frontend. O usuário pode fazer upload de um arquivo DOCX, que será convertido para PDF e disponibilizado para download automaticamente.
 
-🚀 Tecnologias Utilizadas:
+🚀 Tecnologias Utilizadas:<br>
 
 -Python (Flask) - Para o backend e manipulação de arquivos
 -docx2pdf - Biblioteca usada para conversão de DOCX para PDF
 -HTML, CSS - Para a interface do usuário
 -JavaScript (Fetch API) - Para envio do arquivo e download do PDF
 
-🎯 Funcionalidades
+🎯 Funcionalidades <br>
 ✅ Upload de arquivos DOCX
 ✅ Conversão automática para PDF
 ✅ Download do arquivo convertido
