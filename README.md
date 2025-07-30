@@ -28,7 +28,7 @@ Este é um Conversor de DOCX para PDF desenvolvido com Flask (Python) no backend
 🛠 Como Rodar o Projeto
 
 1️⃣ Clone este repositório <br>
-git clone https://github.com/seuusuario/conversor-docx-pdf.git <br>
+git clone https://github.com/CelsoAntunesNogueira/conversor-docx-pdf.git <br>
 cd conversor-docx-pdf
 
 2️⃣ Crie um ambiente virtual (opcional, mas recomendado) <br>
